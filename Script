@@ -148,7 +148,7 @@ local function NCEMLR_fake_script() -- Fly.LocalScript
 	local character = player.Character or player.CharacterAdded:Wait()
 	local humanoidRootPart = character:WaitForChild("HumanoidRootPart")
 	local flying = false
-	local speed = 1  -- You can adjust the speed here
+	local speed = 2  -- You can adjust the speed here
 	
 	-- Variables for key states
 	local moveForward = false
