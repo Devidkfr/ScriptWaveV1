@@ -1,1 +1,1 @@
-It dosent work with loadstring for now.
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GooseFRscripts/ASHD/refs/heads/main/ashd", true))()
