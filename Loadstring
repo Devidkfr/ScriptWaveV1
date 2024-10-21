@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LeakingshitFR/Trashv1/refs/heads/main/Script",true))()- fix if needed.
+It dosent work with loadstring for now.
